@@ -6,9 +6,8 @@ Clone the repo to local computer.
 Open repo as a maven project by selecting pom.xml file.
 
 #
-Project Management Tool:
-
-Maven
+Project Management Tool:Maven
+#
 Dependecies:
 
 jUnit (included in pom.xml) testing framework.
