@@ -18,21 +18,21 @@ Dependecies:
 This project mainly consists of 4 different classes.
 
 ##
-Message
+Message:
 __________
 Message class is used to encapsulate the message object (content, timestapm , user etc).
 ##
 Timeline
-____________
+
 Timeline is a class which contains all the mapping of users and their posts.
 ##
-User
-_____________
+User:
+
 User is used to create a User object. For simplicity and since I did not use a data store (DB) userId is not used, instead
 the whole user object is stored instead of a reference to it, although in a real world setting this design would not be optimal.
 ##
-Wall
-________________
-Contains all the user messages, and the aggregated messages of the users being followed
+Wall:
 
+Contains all the user messages, and the aggregated messages of the users being followed
+_______________
 Test cases are provided in the Test folder
